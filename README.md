@@ -1,1 +1,1 @@
-# Sales_predictions
+# Sales-predictions
